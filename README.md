@@ -1,0 +1,1 @@
+hubot自定义的coffee文件和hubot返回图片需要用到的脚本
